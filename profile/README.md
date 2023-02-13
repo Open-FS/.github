@@ -6,11 +6,11 @@
 Open and Free Software Solutions SRL - OpenFS SRL, is a Corporate Consulting service that helps in the Implementation of Information and Communication Technologies based on Free Software and Open Standards
 
 ## Contact
-email: info@openfs.us
+- email: info@openfs.us
 
 ## Sites
 
-https://digitalmarketingnewjersey.us/
-https://openfs.bo/
-https://www.marketingdigitalbolivia.com/
-https://www.disenodepaginasweb.info.bo/
+- https://digitalmarketingnewjersey.us/
+- https://openfs.bo/
+- https://www.marketingdigitalbolivia.com/
+- https://www.disenodepaginasweb.info.bo/
